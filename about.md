@@ -2,9 +2,4 @@
 layout: page
 title: About
 ---
-
-Hello.
-
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
-
-**Less is more..**
+I am Suyash Garg, a third year computer science undergrad at National Institute of Technology, Hamirpur (India). I am highly enthusiastic about fields like machine learning, artificial intelligence and algorithm design. The world of computers is vast and each of the corners draw my attention. I am also zealous about team work and creating apps or things that can benefit daily activities.
