@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
-	<head>
-		{% include head.html %}
-	</head>
+  {% include head.html %}
 
-	<body>
+  <body class="{% if site.theme-dark %} dark {% else %} light {% endif %} ">
 
-		{% include header.html %}
+    {% include header.html %}
 
-		<main>
-			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
-		</main>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
 
-		{% include footer.html %}
+    {% include footer.html %}
 
-	</body>
+  </body>
 
 </html>
