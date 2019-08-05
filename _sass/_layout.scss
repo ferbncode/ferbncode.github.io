@@ -1,0 +1,155 @@
+/**
+ * Site header
+ */
+.header-wrapper {
+  @extend .wrapper;
+
+  $header-spacing: $spacing-unit * 2;
+  margin-top: $header-spacing;
+
+  @include media-query($on-palm) {
+    margin-top: $spacing-unit;
+  }
+}
+
+.header-main {
+  margin: 0;
+}
+
+/**
+ * Site footer
+ */
+.footer-wrapper {
+  @extend .wrapper;
+  margin-bottom: $spacing-unit;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      display: inline-block;
+
+      .username {
+        color: $grey-color-dark;
+        position: relative;
+        right: 4px;
+      }
+
+      a:hover {
+        text-decoration: none;
+
+        .username {
+          color: $brand-color;
+        }
+
+        svg > path {
+          fill: $brand-color;
+        }
+      }
+    }
+  }
+
+  .footer-addition {
+    font-size: $small-font-size;
+
+    a {
+      font-style: italic;
+    }
+  }
+}
+
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit 0;
+}
+
+.page-heading {
+  font-size: 20px;
+  margin-top: $spacing-unit;
+}
+
+.post-list {
+  margin-left: $spacing-unit;
+  list-style: none;
+
+  @include media-query($on-palm) {
+    margin-left: $spacing-unit / 2;
+  }
+
+  > li {
+    margin-bottom: $spacing-unit / 4;
+
+    @include media-query($on-palm) {
+      margin-bottom: $spacing-unit / 2;
+    }
+
+    .post-meta {
+      font-size: $small-font-size;
+    }
+
+    .post-break {
+      display: none;
+      @include media-query($on-palm) {
+        display: inline;
+      }
+    }
+
+    .post-link {
+      display: inline-block;
+
+      @include media-query($on-palm) {
+        margin-left: $spacing-unit / 2;
+      }
+    }
+  }
+}
+
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-title {
+  font-size: 30px;
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    font-size: 20px;
+  }
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+  h2 {
+    font-size: 32px;
+
+    @include media-query($on-laptop) {
+      font-size: 28px;
+    }
+  }
+
+  h3 {
+    font-size: 26px;
+
+    @include media-query($on-laptop) {
+      font-size: 22px;
+    }
+  }
+
+  h4 {
+    font-size: 20px;
+
+    @include media-query($on-laptop) {
+      font-size: 18px;
+    }
+  }
+}
