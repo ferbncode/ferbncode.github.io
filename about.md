@@ -1,22 +1,15 @@
 ---
 layout: default
-title: About - Lawrence Pan
+title: About - Suyash Garg
 permalink: /about/
 ---
 
 # About me
 
-My name is Lawrence Pan (lpan) and I am a Software Engineering student at the
-University of Waterloo.
+My name is Suyash Garg (ferbncode) and I am exploring the amazing world of Software, currently working as a Software Engineer at Zalando.
 
-I am currently interested in distributed systems and large-scale data
-processing/storage infrastructure. I have read Martin Kleppmann's [Designing
-Data-Intensive Applications](http://dataintensive.net/), Tyler Akidau's
-[Streaming Systems](http://streamingsystems.net/), and numerous papers in this
-space.
+I am currently interested in distributed systems and messaging systems. I am currently working on [Nakadi](https://github.com/zalando/nakadi) at Zalando, and currently investing time in learning awesome systems like Apache Kafka, Apache Zookeeper and many others.
 
-I have also taken [relevant courses in
-school](https://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering), such
-as Algorithms, Operation System, Computer Networks, etc.
+I have pursued my Bachelors in Computer Science from National Institute of Technology, Hamipur. I am amazed by the power of Open Source software and try to regularly make my contributions. :)
 
 Want something formal? [Download my résumé]({{ site.resume_url }}).

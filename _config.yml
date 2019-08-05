@@ -1,14 +1,14 @@
 # Site settings
-title: Lawrence Pan
-email: lawrencefeipan@gmail.com
-name: 'lpan.io'
-description: "Lawrence Pan's profile and blog"
+title: Suyash Garg
+email: suyashgargsfam@gmail.com
+name: 'ferbnocde'
+description: ":help 42 && :wq"
 baseurl: ""
-url: "http://lpan.io"
+url: "ferbncode.github.io"
 
-twitter_username: l_pan_
-github_username: lpan
-linkedin_username: lawrence-pan
+twitter_username: ferbncode
+github_username: ferbncode
+linkedin_username: gargsuyash
 
 defaults:
   - scope:
@@ -20,4 +20,4 @@ defaults:
 markdown: kramdown
 
 permalink: /:title/
-resume_url: "https://s3.amazonaws.com/lpan-resume/resume.pdf"
+resume_url: "https://drive.google.com/file/d/0B4wvTlfykBv_YXJ4a25wWFhNY1E/view?usp=sharing"
