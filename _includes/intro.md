@@ -1,4 +1,3 @@
-Hi there, my name is Lawrence Pan and I am currently a Software Engineering
-student at the University of Waterloo.
+Hi there o/, my name is Suyash Garg and I am currently working as a Software Engineer at Zalando.
 
 Click [here](/about) to learn more about me.
