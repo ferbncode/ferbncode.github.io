@@ -10,19 +10,41 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
   <ul class="post-list">
+      <!--use flags instead in next improvement-->
     {% for post in site.posts %}
       <li>
+        {% if post.folder %}
+
+        {% else %}
         <span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span>
-
         <br class="post-break">
-
+        <br/>
         <span class="post-link">
           <span>&rArr;</span>
           <a href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
           </a>
         </span>
+        {% endif %}
       </li>
     {% endfor %}
+
+    <br/>
+    {% for post in site.posts %}
+      <li>
+        {% if post.folder %}
+          <span class="post-meta">{{ post.folder }}</span>
+        <br class="post-break">
+        <br/>
+        <span class="post-link">
+          <span>&rArr;</span>
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </span>
+        {% endif %}
+      </li>
+    {% endfor %}
+
   </ul>
 </div>

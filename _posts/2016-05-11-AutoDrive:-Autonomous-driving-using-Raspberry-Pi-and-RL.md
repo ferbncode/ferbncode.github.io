@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AutoDrive: Autonomous Driving using Raspberry Pi and RL"
+title:  "AutoDrive: Autonomous Driving using Raspberry Pi and Reinforcement Learning"
 date:   2016-05-11 12:59:08 +0530
 categories: machine-learning
 ---
