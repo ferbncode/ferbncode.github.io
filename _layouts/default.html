@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+  <div class="container" class="main_container">
+    {% include header.html %}
+
+    <div class="post-container">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </div>
+</body>
+<script>
+  if ( $( document ).height() > $( window ).height()) {
+    document.body.style.backgroundSize = "contain";
+  } else {
+    document.body.style.backgroundSize = "cover";
+  }
+</script>
+    
+</html>
