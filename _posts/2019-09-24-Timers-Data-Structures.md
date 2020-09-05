@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Structures for Timer Facility"
+title:  "Data Structures for Timer Facility (Diagrams)"
 date:   2018-03-18 00:00:00 +0530
 tags: apache-kafka, timers, purgatory
 meta:
