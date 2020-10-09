@@ -35,6 +35,20 @@ paginate:            5
 
 resume_url: "https://drive.google.com/file/d/1AkwhFtojWrzScpVC5K-UBQU9AvZoAIDc/view?usp=sharing"
 
+# # Collections
+collections:
+  reads:
+    output: true
+  talks:
+    output: true
+  selftalks:
+    output: true
+  piano:
+    output: true
+  conv:
+    output: true
+  
+
 
 # Build settings
 markdown:            kramdown

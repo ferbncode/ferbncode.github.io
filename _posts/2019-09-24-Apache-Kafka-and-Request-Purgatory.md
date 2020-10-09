@@ -3,7 +3,8 @@ layout: post
 title: "Apache Kafka and it's Request Purgatory"
 date: 2019-09-24 12:03:08 +0200
 author: Suyash Garg
-tags: apache-kafka, timers, purgatory
+tags: apache-kafka, timers, purgatory, essay
+p_tags: essay
 meta:
     keywords: "apache kafka, timers, heirarchical timing wheels, purgatory"
 ---

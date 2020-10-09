@@ -1,0 +1,11 @@
+## Practice
+
+### Paraphrasing
+
+The health care system is growing overwhelmed with handling health issues related to the increasing proportion of overweight people. An education to realize the importance of physical exercise early on in the school cirriculum would be an effective way of resolving the aforementioned issue. I completely agree that educating children and establishing a more physical health oriented mindset would be the best way to deal with the issue in the long run.
+
+The human body works in a very systematic way, owning to the coordination of multiple organs. Being overweight causes strain on not just one organ of the body, but affects multiple parts and degraded the quality of their functioning. A body with excessive fat is more susceptible to catching diseases and can easily run out of energy. Almost all organs like the heart and the kidney are under strain as they have to deal with keeping a body running with excessive fuel. In worst cases, being overweight can cause cascading adverse affects on the body. One of the common diseases with overweight people is diabetes, where the body runs on extremely high or extermely low sugar levels. An example of a cascading affect due to diabetes would be loss of important immunity to diseases like common flu, and higher time of blood clots in case of injuries. Overall, the human body requires an apt amount of weight which varies from person to person. to function at it's best.
+
+Like the core to many problems, awareness and education about the solutions lies at the heart of this issue as well. Introducing more physical education classes, which teach basic exercises, nutrition and importance of being healthy would really help with the issue. A mindset encouraging regular focus on physical health would go a long way in their life for children. With focus on other prominent careeers, it is very easy to forget that being healthy is much more important to have the energy to solve bigger problems. A regular and consistent focus on physical education throughout the school cirriculum should help set up this mindset.
+
+In conclusion, I'd say that introduction of more physical education classes to help set up a more physical health oriented mindset should help reducing the strain on health care system. 
