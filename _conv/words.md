@@ -55,3 +55,4 @@ author: Suyash Garg
 * prevaricate
 * epitome
 * quagmire
+* curt - rudely brief -
