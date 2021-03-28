@@ -5,7 +5,7 @@ date:   2019-09-23 09:00:00 +0530
 tags: apache-kafka, timers, purgatory
 p_tags: diagram
 meta:
-    keywords: "apache kafka, timers, heirarchical timing wheels, purgatory"
+    keywords: "apache kafka, timers, hierarchical timing wheels, purgatory"
 ---
 This post is just a set of diagrams that describe the different types of data structures for maintaining a list of timers.
 <div>
